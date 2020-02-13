@@ -10,7 +10,7 @@ meta:
 ---
 ## Podržite rad kluba
 
-kupnjom naših proizvoda, brzom i jednostavnom narudžbom, te plačanjem po primitku!
+kupnjom naših proizvoda, brzom i jednostavnom narudžbom, te plaćanjem po primitku!
 
 
 
