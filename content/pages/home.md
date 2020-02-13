@@ -25,4 +25,4 @@ Redovitim posjetom ovog kluba osiguravate si iznad prosjećnu kvalitetu života,
 
 Podržite kvalitetan sadržaj ovog kluba kupnjom proizvoda iz kategorije **Kupi Me** 
 
-****[**https://bobi-preporucuje.club/kupime/**](https://bobi-preporucuje.club/kupime/)****
+****[**KUPI ME**](https://bobi-preporucuje.club/kupime/)****
