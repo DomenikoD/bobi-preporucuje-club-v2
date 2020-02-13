@@ -23,6 +23,6 @@ Redovitim posjetom ovog kluba osiguravate si iznad prosjećnu kvalitetu života,
   * odluke
   * preparati
 
+Podržite kvalitetan sadržaj ovog kluba kupnjom proizvoda iz kategorije **Kupi Me** 
 
-
-Podržite kvalitetan sadržaj ovog kluba kupnjom proizvoda iz kategorije **Kupi Me**
+****[**https://bobi-preporucuje.club/kupime/**](https://bobi-preporucuje.club/kupime/)****
