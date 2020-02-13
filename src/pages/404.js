@@ -18,18 +18,18 @@ export default ({ children }) => (
     render={data => (
       <Layout>
         <Helmet>
-          <title>404 – Page Not Found</title>
+          <title>404 – Nema sadržaja.</title>
         </Helmet>
         <section className="section thick">
           <div className="container skinny taCenter">
             <p>
               <AlertTriangle size="5rem" />
             </p>
-            <h1>404 - Page Not Found</h1>
+            <h1>404 - Tu još uvijek nema ništa.</h1>
             <p>
-              We can't find the page you are looking for!
+              Preporučujemo vam da se vratite natrag!
               <br />
-              Head back to{' '}
+              Natrag{' '}
               <Link to="/">{_get(data, 'globalSettings.siteTitle')}</Link>
             </p>
           </div>
