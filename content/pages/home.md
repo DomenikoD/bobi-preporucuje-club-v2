@@ -6,7 +6,7 @@ featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
 subtitle: ' Hvala Vam što ste došli ovdje. Od sada pa nadalje tu ćete pronaći najtočnije informacije i mjere za Vaš život, Vašu prehranu i brigu za Vaše dijete.'
 meta:
   description: Vaš život.
-  title: The Ultimate Gatsby Starter
+  title: Bobi preporuke
 ---
 Redovitim posjetom ovog kluba osiguravate si iznad prosjećnu kvalitetu života, zadovoljstvo i radost.
 
