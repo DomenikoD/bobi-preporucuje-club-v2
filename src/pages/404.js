@@ -25,7 +25,7 @@ export default ({ children }) => (
             <p>
               <AlertTriangle size="5rem" />
             </p>
-            <h1>404 - Tu još uvijek nema ništa.</h1>
+            <h1>404 - Na ovom mjestu Bobi preporučuje vratiti se natrag.</h1>
             <p>
               Preporučujemo vam da se vratite natrag!
               <br />
