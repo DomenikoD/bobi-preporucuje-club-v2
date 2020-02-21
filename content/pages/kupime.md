@@ -5,12 +5,9 @@ title: Kupi Me
 featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
 subtitle: This is the components page subtitle.
 section1: >-
-  ## This is a container component
+  # Velikom Arhitektu "Okote Geda" u službi isprobavanja
 
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-  vestibulum.
+Traže se znalci lijepog pisanja članaka te tu i tamo koja fotka bez autorskih prava.
 section2: |-
   ## You can use videos, images and text.
 
