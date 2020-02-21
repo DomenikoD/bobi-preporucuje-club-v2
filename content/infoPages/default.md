@@ -12,10 +12,7 @@ meta:
 
 kupnjom naših proizvoda, brzom i jednostavnom narudžbom, te plaćanjem po primitku!
 
-
-
-
-
 ### Dostupni proizvodi:
 
 * visokokvalitetna keramička posuda
+* NOVO! Slike s posla Sugar Daddy-ja!
