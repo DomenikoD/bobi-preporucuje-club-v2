@@ -6,8 +6,7 @@ featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
 subtitle: This is the components page subtitle.
 section1: >-
   # Velikom Arhitektu "Okote Geda" u službi isprobavanja
-
-Traže se znalci lijepog pisanja članaka te tu i tamo koja fotka bez autorskih prava.
+  Traže se znalci lijepog pisanja članaka te tu i tamo koja fotka bez autorskih prava.
 section2: |-
   ## You can use videos, images and text.
 
