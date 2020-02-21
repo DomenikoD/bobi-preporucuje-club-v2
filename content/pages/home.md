@@ -15,7 +15,7 @@ Redovitim posjetom ovog kluba osiguravate si iznad prosjećnu kvalitetu života,
 * hrani
   * nabavka i priprema
   * egzotične namirnice
-* odgoju i brigi dijece
+* odgoju i brigi djece
   * preporuke kvalitetnog odgoja
   * higjene 
 * ženama
