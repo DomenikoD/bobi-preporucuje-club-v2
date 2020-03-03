@@ -16,5 +16,5 @@ Be a lady they said.
 
 Jedan kratak video o jednostavnim očakivanjima prema ženama - samo budi dama.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jvgvaFFZlZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe src="https://player.vimeo.com/video/393253445?color=000000&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/393253445">Be a Lady They Said</a> from <a href="https://vimeo.com/user48031317">Paul McLean</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
