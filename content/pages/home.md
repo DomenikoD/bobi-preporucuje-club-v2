@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: Dobro došli na Bobi preporuke!
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Hvala Vam što ste došli ovdje. Od sada pa nadalje tu ćete pronaći najtočnije informacije i mjere za Vaš život, Vašu prehranu i brigu za Vaše dijete.'
+subtitle: ' Zahvalite si što ste došli ovdje. Od sada pa nadalje tu ćete pronaći najtočnije informacije i mjere za Vaš život, Vašu prehranu i brigu za Vašu ženu i dijete.'
 meta:
   description: Vaš život.
   title: Bobi preporuke
@@ -25,4 +25,6 @@ Redovitim posjetom ovog kluba osiguravate si iznad prosjećnu kvalitetu života,
 
 Podržite kvalitetan sadržaj ovog kluba kupnjom proizvoda iz kategorije **Kupi Me** 
 
-****[**KUPI ME**](https://bobi-preporucuje.club/kupime/)****
+**[**KUPI ME !**] https://bobi-preporucuje.club/kupime/**
+
+**[**BLOG NOVOSTI !**] https://bobi-preporucuje.club/blog/**
