@@ -10,13 +10,7 @@ meta:
   description: Ljubav je na selu svršetak
   title: ljns
 ---
-![Kim i sestre u Imockom](https://ucarecdn.com/db392794-cad2-469b-a210-9968a7e6505f/ "Imocki - Kim i sestre")
-
-Hakija nema Instagram profil. Jedna njegova je u našem Insta Feedu.
-
-Z bolje strane planete nalazi se Kim. Ona ipak nije ovogodišnja kandidatkinja LJNS-a, ali je zato druga najpraćenija osoba na svijetu (iza Ariane Grande - o njoj više drugi puta), influencerica (bolja od Sonje Kovač, više o tome u slučaju nedostatka boljih tema). U nastavku nekoliko slika, pa pustite Vašem mozgu kojeg drži lubanja nekoliko trenutaka na upijanje informacija. 
-
-Dokumentarna sapunica Ljubav je na selu u samoj je uzavreloj završnoj fazi, gdje kandidati biraju svoje "puce", "ciice", "cice-mice", djevojke ili žene za romantično putovanje. Jedan od impozantnijih kandidata je Hakija iz Konjica BIH, koji lomi ženska srca, prisno prilazi kandidatkinjama, pruža im lažne nade te mu okopavaju vrt i kose travu. 
+Dokumentarna sapunica _Ljubav je na selu_ u samoj je uzavreloj završnoj fazi, gdje kandidati biraju svoje "puce", "ciice", "cice-mice", djevojke ili žene za romantično putovanje. Jedan od impozantnijih kandidata je Hakija iz Konjica BIH, koji lomi ženska srca, prisno prilazi kandidatkinjama, pruža im lažne nade te mu okopavaju vrt i kose travu. 
 
 Hakija nema Instagram profil. Jedna njegova je u našem Insta Feedu.
 
@@ -34,6 +28,10 @@ Kim u imeniku.
 
 ![Privatni foto album](https://ucarecdn.com/7b96e1b3-cd06-4c82-876b-d44173943669/ "Privatni foto album")
 
-Kim u Botticelijenom stilu rođenje Venere.
+Kim u Botticellijenom stilu rođenja Venere.
 
 ![Kim rođenje Venere](https://ucarecdn.com/16cd4a89-6a0b-4503-966b-dfc462a53387/ "Kim rođenje Venere")
+
+
+
+Hakija će odabrati... čitajte u sljedećem nastavku!
