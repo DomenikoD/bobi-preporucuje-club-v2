@@ -29,3 +29,11 @@ Kim u latexu.
 Kim u Imockom.
 
 ![Kim i sestre u Imockom](https://ucarecdn.com/db392794-cad2-469b-a210-9968a7e6505f/ "Imocki - Kim i sestre")
+
+Kim u imeniku.
+
+![Privatni foto album](https://ucarecdn.com/7b96e1b3-cd06-4c82-876b-d44173943669/ "Privatni foto album")
+
+Kim u Botticelijenom stilu rođenje Venere.
+
+![Kim rođenje Venere](https://ucarecdn.com/16cd4a89-6a0b-4503-966b-dfc462a53387/ "Kim rođenje Venere")
