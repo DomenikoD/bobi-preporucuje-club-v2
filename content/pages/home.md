@@ -8,7 +8,12 @@ meta:
   description: Vaš život.
   title: Bobi preporuke
 ---
-Redovitim posjetom ovog kluba osiguravate si iznad prosjećnu kvalitetu života, zadovoljstvo i radost.
+## Novo pročitajte:
+
+* Ljubav je na selu
+* Rad zdoma
+
+## Redovitim posjetom ovog kluba osiguravate si iznad prosjećnu kvalitetu života, zadovoljstvo i radost.
 
 # Ovdje pronađite upute o:
 
